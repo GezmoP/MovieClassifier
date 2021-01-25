@@ -32,11 +32,11 @@ https://en.wikipedia.org/wiki/Category:Lists_of_films_by_genre
 
 ## Challenges
 
-Care needs to be taken that the training data is not so complete that it becomes a lookup exercise.  Also, accuracy may include a subjective element which may be included in the training/fitting phase of the process.
+Care needs to be taken that the training data is not so complete that it becomes a lookup exercise.  Also, accuracy may include a subjective element which may be included in the training/fitting phase of the process.  Initial use is to cater to English - training material in other languages would enable support in those languages.
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+It should also therefore be possible to create AI-suggested movie titles based on a genre and initial user input.  You could then I suppose have one system creating movie titles and the other system trying to classify them :)
 
 
 ## Acknowledgments
